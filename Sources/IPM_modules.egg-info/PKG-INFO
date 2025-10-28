@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: IPM_modules
+Version: 0.1
+Summary: Un module simple d'exemple
+Author: Rodolphe Lajugie
+Requires-Python: >=3.8
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary
